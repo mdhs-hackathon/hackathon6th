@@ -122,20 +122,22 @@
 [React Native API](https://facebook.github.io/react-native/docs/activityindicator)(英文)
 
 ### Xamarin(C#)
+`Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的 Android、iOS和Windows 應用程式，並跨多個平台共享代碼。
 
 [Xamarin官方文件](https://docs.microsoft.com/en-us/xamarin/)(英文)
 
 [Xamarin Forms Tutorial: Build Native Mobile Apps with C# | Mosh](https://youtu.be/93ZU6j59wL4)(英文)
 
 ### Flutter(Dart) 
-
-`範例: Dart是由Google開發的程式語言...`
+`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。
+`而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言
 
 [Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)(英文)(18集，每集19分鐘左右)
 
 [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc)(英文)
 
 ### Kivy(Python)
+`Kivy是開源Python函式庫，用於開發行動應用程式和其它採用自然使用者介面的多點觸控應用軟體
 
 [Kivy Tutorials Python](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)(英文)(11集，每集12分鐘左右)
 
