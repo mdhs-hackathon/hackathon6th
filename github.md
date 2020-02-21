@@ -59,7 +59,7 @@
 
 [Gumby Framework Tutorial](https://ieatcss.com/gumby-framework-tutorial.html)(英文)(網頁下方有範例清單的連結)
 
-##HTML
+## HTML
 
 ### Bootstrap 3
 
@@ -77,7 +77,7 @@
 
 [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)(英文)(35集，每集20分鐘以內)
 
-# APP
+# App
 
 ## Windows
 
