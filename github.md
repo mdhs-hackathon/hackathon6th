@@ -53,12 +53,6 @@
 
 [Angular 官網的文件](https://angular.io/docs)(英文)
 
-## CSS
-
-### Gumby
-
-[Gumby Framework Tutorial](https://ieatcss.com/gumby-framework-tutorial.html)(英文)(網頁下方有範例清單的連結)
-
 ## HTML
 
 ### Bootstrap 3
@@ -74,6 +68,7 @@
 [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)(英文)(影片40集，每集15分鐘以內)
 
 ### Flask(Python)
+`Flask是一個使用Python編寫的輕量級Web應用框架`
 
 [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)(英文)(35集，每集20分鐘以內)
 
@@ -90,6 +85,8 @@
 ## Android
 
 ### Kotlin
+`Kotlin 是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`
+`雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。`
 
 [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
 
@@ -129,8 +126,8 @@
 [Xamarin Forms Tutorial: Build Native Mobile Apps with C# | Mosh](https://youtu.be/93ZU6j59wL4)(英文)
 
 ### Flutter(Dart) 
-`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。
-而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言`
+`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。`  
+`而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言`
 
 [Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)(英文)(18集，每集19分鐘左右)
 
