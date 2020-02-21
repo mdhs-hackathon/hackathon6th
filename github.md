@@ -85,7 +85,7 @@
 ## Android
 
 ### Kotlin
-`Kotlin 是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`
+`Kotlin 是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`  
 `雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。`
 
 [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
