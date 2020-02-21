@@ -29,7 +29,9 @@
 
 ### 基礎
 
-[網頁開發教學 -- w3schools](https://www.w3schools.com/)(網頁語言教學)(英文)
+[網頁開發教學 -- w3schools](https://www.w3schools.com/)(英文)(包含HTML、CSS、JavaScript)
+
+## JavaScript
 
 ### ReactJS
 
@@ -51,13 +53,19 @@
 
 [Angular 官網的文件](https://angular.io/docs)(英文)
 
+## CSS
+
 ### Gumby
 
 [Gumby Framework Tutorial](https://ieatcss.com/gumby-framework-tutorial.html)(英文)(網頁下方有範例清單的連結)
 
+##HTML
+
 ### Bootstrap 3
 
 [W3schools -- Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)(英文)(W3schools有各種網頁語言的教學)
+
+## Python
 
 ### Django(Python)
 
@@ -106,6 +114,18 @@
 [Swift基礎語法教學](https://www.youtube.com/playlist?list=PLKxpsqZZXDypDXRn6zF7MCELsrtQ06ywd)(20集，每集15分鐘以內)
 
 ## 跨平台
+
+### React Native(JavaScript)
+
+[React Native Tutorial for Beginners - Crash Course 2020](https://youtu.be/qSRrxpdMpVc)(英文)
+
+[React Native API](https://facebook.github.io/react-native/docs/activityindicator)(英文)
+
+### Xamarin(C#)
+
+[Xamarin官方文件](https://docs.microsoft.com/en-us/xamarin/)(英文)
+
+[Xamarin Forms Tutorial: Build Native Mobile Apps with C# | Mosh](https://youtu.be/93ZU6j59wL4)(英文)
 
 ### Dart
 
