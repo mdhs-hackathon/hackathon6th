@@ -68,7 +68,7 @@
 [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)(英文)(影片40集，每集15分鐘以內)
 
 ### Flask(Python)
-`Flask是一個使用Python編寫的輕量級Web應用框架`
+> Flask是一個使用Python編寫的輕量級Web應用框架
 
 [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)(英文)(35集，每集20分鐘以內)
 
@@ -85,8 +85,8 @@
 ## Android
 
 ### Kotlin
-`Kotlin是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`
-`雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。`
+> Kotlin是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript
+> 雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。
 
 [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
 
@@ -119,7 +119,8 @@
 [React Native API](https://facebook.github.io/react-native/docs/activityindicator)(英文)
 
 ### Xamarin(C#)
-`Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的Android、iOS和Windows應用程式，並跨多個平台共享代碼。`
+
+> Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的Android、iOS和Windows應用程式，並跨多個平台共享代碼。
 
 [Xamarin官方文件](https://docs.microsoft.com/en-us/xamarin/)(英文)
 
@@ -127,16 +128,16 @@
 
 ### Flutter(Dart)
 
-`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。`
-`而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言`
+> Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。
+> 而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言
 
-[Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)(英文)(18集，每集19分鐘左右)
+Dart for Beginners(英文)(18集，每集19分鐘左右)
 
 [Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc)(英文)(長度約為3.5小時的Crash Course)
 
 ### Kivy(Python)
 
-`Kivy是開源Python函式庫，用於開發行動應用程式和其它採用自然使用者介面的多點觸控應用軟體`
+> Kivy是開源Python函式庫，用於開發行動應用程式和其它採用自然使用者介面的多點觸控應用軟體
 
 [Kivy Tutorials Python](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)(英文)(11集，每集12分鐘左右)
 
