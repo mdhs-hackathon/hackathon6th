@@ -23,7 +23,7 @@
 
 [codecademy互動式教學](https://www.codecademy.com/)(有許多免費課程如Python 2、JavaScript、ReactJS、 AngularJS、C#、C++、Swift、PHP、Java等)(英文)
 
-[Runoob 的各種語言教學](https://www.runoob.com/)(各種語言幾乎都有，大推)(簡中)
+[Runoob的各種語言教學](https://www.runoob.com/)(各種語言幾乎都有，大推)(簡中)
 
 # Web
 
@@ -85,7 +85,7 @@
 ## Android
 
 ### Kotlin
-`Kotlin 是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`  
+`Kotlin是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript`
 `雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。`
 
 [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
@@ -100,7 +100,7 @@
 
 [朝陽科大的講義](http://www.im.cyut.edu.tw/html/html/board/p_test/r_2013-01-07.pdf)(pdf)
 
-[Java 教學及程式範例大全](https://www.ewdna.com/2011/12/java.html)(資源連結清單)
+[Java教學及程式範例大全](https://www.ewdna.com/2011/12/java.html)(資源連結清單)
 
 ## iOS、macOS
 
@@ -119,21 +119,23 @@
 [React Native API](https://facebook.github.io/react-native/docs/activityindicator)(英文)
 
 ### Xamarin(C#)
-`Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的 Android、iOS和Windows 應用程式，並跨多個平台共享代碼。`
+`Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的Android、iOS和Windows應用程式，並跨多個平台共享代碼。`
 
 [Xamarin官方文件](https://docs.microsoft.com/en-us/xamarin/)(英文)
 
-[Xamarin Forms Tutorial: Build Native Mobile Apps with C# | Mosh](https://youtu.be/93ZU6j59wL4)(英文)
+[Xamarin Forms Tutorial: Build Native Mobile Apps with C# | Mosh](https://youtu.be/93ZU6j59wL4)(英文)(長度大約1個多小時)
 
-### Flutter(Dart) 
-`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。`  
+### Flutter(Dart)
+
+`Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。`
 `而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言`
 
 [Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)(英文)(18集，每集19分鐘左右)
 
-[Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc)(英文)
+[Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart](https://youtu.be/GLSG_Wh_YWc)(英文)(長度約為3.5小時的Crash Course)
 
 ### Kivy(Python)
+
 `Kivy是開源Python函式庫，用於開發行動應用程式和其它採用自然使用者介面的多點觸控應用軟體`
 
 [Kivy Tutorials Python](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)(英文)(11集，每集12分鐘左右)
