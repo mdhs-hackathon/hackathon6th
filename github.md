@@ -144,3 +144,16 @@ Dart for Beginners(英文)(18集，每集19分鐘左右)
 ### PyQt5(Python)
 
 [PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)(英文)(8集，每集10分鐘左右)
+
+----
+# 工具
+
+### git & github
+
+[git for windows](https://gitforwindows.org/)
+
+[Fork](https://git-fork.com/)(圖形 git client)
+
+[git 與 github 教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
+
+[Fork 使用教學](https://marcus116.blogspot.com/2019/09/git-git-client-fork.html)
