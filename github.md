@@ -1,6 +1,7 @@
 >**未標注語言者皆為繁中**
 
 ----
+
 # 通用
 
 ### Python
@@ -27,7 +28,7 @@
 
 # Web
 
-### 基礎
+## 基礎
 
 [網頁開發教學 -- w3schools](https://www.w3schools.com/)(英文)(包含HTML、CSS、JavaScript)
 
@@ -68,6 +69,7 @@
 [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)(英文)(影片40集，每集15分鐘以內)
 
 ### Flask(Python)
+
 > Flask是一個使用Python編寫的輕量級Web應用框架
 
 [Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)(英文)(35集，每集20分鐘以內)
@@ -85,6 +87,7 @@
 ## Android
 
 ### Kotlin
+
 > Kotlin是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript\
 > 雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。
 
@@ -146,9 +149,10 @@ Dart for Beginners(英文)(18集，每集19分鐘左右)
 [PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)(英文)(8集，每集10分鐘左右)
 
 ----
+
 # 工具
 
-### git & github
+## git & github
 
 [git for windows](https://gitforwindows.org/)
 
