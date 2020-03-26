@@ -152,14 +152,14 @@ Dart for Beginners(英文)(18集，每集19分鐘左右)
 
 # 工具
 
-## git & github
+## Git & GitHub
 
-[git for windows](https://gitforwindows.org/)
+[下載Git](https://git-scm.com/downloads)
 
-[github](https://github.com/)
+[GitHub](https://github.com/)
 
-[Fork](https://git-fork.com/)(圖形 git client)
+[Git與GitHub教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
 
-[git 與 github 教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
+[Fork](https://git-fork.com/)(圖形化Git client)
 
-[Fork 使用教學](https://marcus116.blogspot.com/2019/09/git-git-client-fork.html)
+[Fork使用教學](https://marcus116.blogspot.com/2019/09/git-git-client-fork.html)
