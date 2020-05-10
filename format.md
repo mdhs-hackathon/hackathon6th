@@ -12,7 +12,6 @@
 
 # 範例
 
-[App範例](https://github.com/mdhs-hackathon/hackathon6th/blob/master/app_template/)
+[App範例](./app_template/)
 
-[Web範例](https://github.com/mdhs-hackathon/hackathon6th/blob/master/web_template/)
-
+[Web範例](./web_template/)
