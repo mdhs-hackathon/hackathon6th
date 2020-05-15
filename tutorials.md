@@ -58,7 +58,7 @@
 
 ### Bootstrap 3
 
-[W3schools -- Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)(英文)(W3schools有各種網頁語言的教學)
+[W3schools -- Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)(英文)(W3Schools有各種網頁語言的教學)
 
 ## Python
 
@@ -89,7 +89,7 @@
 ### Kotlin
 
 > Kotlin是由JetBrains所開發在JVM上執行的程式語言，也可被編譯為JavaScript\
-> 雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫。
+> 雖然與Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如Java集合框架等的現有Java參照的函式庫
 
 [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
 
@@ -123,7 +123,7 @@
 
 ### Xamarin(C#)
 
-> Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的Android、iOS和Windows應用程式，並跨多個平台共享代碼。
+> Xamarin是一個跨平台開發軟體，通過使用C＃共享的代碼庫，開發人員可以使用Xamarin工具，使用本地用戶界面編寫原生的Android、iOS和Windows應用程式，並跨多個平台共享代碼
 
 [Xamarin官方文件](https://docs.microsoft.com/en-us/xamarin/)(英文)
 
@@ -131,7 +131,7 @@
 
 ### Flutter(Dart)
 
-> Flutter能建立原生跨平台的框架，用dart寫一份Code能同時讓iOS與Android平台使用，也支援Web以及桌面應用程式。\
+> Flutter是一個能建立原生跨平台的框架，用Dart寫一套原始碼能同時讓iOS與Android平台使用，可以同時享受原生App的強大性能，Flutter也可以支援Web以及桌面應用程式\
 > 而Dart則是由Google開發的程式語言，主要針對前端介面開發所使用的程式語言
 
 Dart for Beginners(英文)(18集，每集19分鐘左右)
@@ -160,6 +160,6 @@ Dart for Beginners(英文)(18集，每集19分鐘左右)
 
 [Git與GitHub教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
 
-[Fork](https://git-fork.com/)(圖形化Git client)
+[Fork](https://git-fork.com/)(圖形化Git Client)
 
 [Fork使用教學](https://marcus116.blogspot.com/2019/09/git-git-client-fork.html)
