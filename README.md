@@ -35,7 +35,15 @@
 
 參賽組別須將操作成品的過程錄製成影片，將影片上傳至YouTube，並在繳交作品時附上影片連結
 
-操作影片的開頭需置入活動贊助商提供的素材
+操作影片的開頭需置入活動贊助商提供的素材，請由以下提供圖檔擇一置入影片開頭
+
+[透明底黑字PNG檔](https://cdn.hackathontwjr.ml/files/AMD-logo-bk.png)
+
+[黑底白字PNG檔](https://cdn.hackathontwjr.ml/files/AMD-logo-wh.png)
+
+[透明底黑字AI檔](https://cdn.hackathontwjr.ml/files/AMD-logo-bk.ai)
+
+[黑底白字EPS檔](https://cdn.hackathontwjr.ml/files/AMD-logo-wh.eps)
 
 ### 範例
 
