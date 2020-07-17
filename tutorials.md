@@ -46,7 +46,7 @@
 
 [Vue.js 學習筆記總整理](https://cythilya.github.io/2017/05/21/vue-study-note/)(資源連結清單)
 
-### AngularJS
+### Angular
 
 [G.T.Wang的超基礎Angular hello world 教學](https://blog.gtwang.org/web-development/angular-framework-hello-world/)(真的是從0開始的基礎)
 
